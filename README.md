@@ -17,6 +17,10 @@ Next, follow these instructions to run the AppImage:
 
 See https://www.ubuntupit.com/how-to-install-software-in-ubuntu-linux-a-complete-guide-for-newbie/
 
+### Install Application from Ubuntu Software directly
+
+From the Ubuntu Software on the machine, search for "Commandeer" and download and install it directly from there.
+
 ### Install Application in Ubuntu Using AppImage
 
 Deb package, and RPM file formats are used for installing software on Debian or Ubuntu, and Fedora/SUSE based Linux distro respectively. There is a problem for the app developer that they have to maintain multiple packages for various Linux distributions. To overcome this problem, AppImage comes into the picture for offering a universal package management system for all the Linux distros.
