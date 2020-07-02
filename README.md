@@ -37,3 +37,7 @@ You have to follow three simple steps to run an AppImage on Ubuntu Linux.
 
 - Now run the program.
 
+## LocalStack with Commandeer
+
+See also https://docs.getcommandeer.com/docs/LocalStack/#commandeer-key-features
+
