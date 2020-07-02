@@ -41,3 +41,5 @@ You have to follow three simple steps to run an AppImage on Ubuntu Linux.
 
 See also https://docs.getcommandeer.com/docs/LocalStack/#commandeer-key-features
 
+LocalStack is one of our favorite tools for simulating the AWS environment. You are able to stand up many different services, such as S3 or Dynamo, and have complete access to the files or No-SQL data exactly is it in on AWS. Why does this matter? Because running things locally is great for many reasons. It is much faster and it saves CPU costs on AWS for starters. We feel it also allows you to get a better feel for how your system is actually operating.
+
